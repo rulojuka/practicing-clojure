@@ -1,0 +1,1 @@
+Exercises from https://clojure.org/guides/learn/syntax
